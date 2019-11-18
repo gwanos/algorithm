@@ -1,12 +1,3 @@
-//
-// Created by 이관호 on 2019-06-23.
-//
-
-#ifndef LEETCODE_79WORDSEARCH_H
-#define LEETCODE_79WORDSEARCH_H
-
-#endif //LEETCODE_79WORDSEARCH_H
-
 #include <iostream>
 #include <vector>
 #include <string>
